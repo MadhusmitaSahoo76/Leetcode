@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
