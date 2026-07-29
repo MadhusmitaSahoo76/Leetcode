@@ -71,6 +71,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1873-calculate-special-bonus) |
