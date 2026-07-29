@@ -69,5 +69,6 @@
 ## Database
 |  |
 | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
