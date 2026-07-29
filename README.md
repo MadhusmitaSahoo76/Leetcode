@@ -66,4 +66,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [1873-calculate-special-bonus](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
