@@ -78,6 +78,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0185-department-top-three-salaries](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0197-rising-temperature) |
+| [0550-game-play-analysis-iv](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0584-find-customer-referee) |
