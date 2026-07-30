@@ -39,6 +39,7 @@
 | [0013-roman-to-integer](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
