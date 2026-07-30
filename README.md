@@ -100,6 +100,7 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1934-confirmation-rate](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Counting Sort
 |  |
 | ------- |
