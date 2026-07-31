@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
@@ -35,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0013-roman-to-integer) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -138,6 +141,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
@@ -155,4 +159,5 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0605-can-place-flowers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
