@@ -12,6 +12,7 @@
 | [0605-can-place-flowers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -162,4 +163,8 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0605-can-place-flowers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
