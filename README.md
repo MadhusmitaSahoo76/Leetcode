@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -162,6 +163,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0605-can-place-flowers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
