@@ -16,6 +16,7 @@
 | [0605-can-place-flowers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Database
