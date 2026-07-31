@@ -44,12 +44,14 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
