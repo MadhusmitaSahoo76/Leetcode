@@ -44,6 +44,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0443-string-compression](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
