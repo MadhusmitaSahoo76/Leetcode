@@ -13,6 +13,7 @@
 | [0238-product-of-array-except-self](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0724-find-pivot-index) |
@@ -54,6 +55,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0067-add-binary](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -205,6 +208,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
@@ -280,4 +284,8 @@
 | [0872-leaf-similar-trees](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
