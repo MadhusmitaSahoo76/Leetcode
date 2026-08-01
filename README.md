@@ -33,6 +33,7 @@
 | [0875-koko-eating-bananas](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1032-stream-of-characters](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1032-stream-of-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -136,6 +137,7 @@
 | [0399-evaluate-division](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0649-dota2-senate) |
+| [1032-stream-of-characters](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1032-stream-of-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1268-search-suggestions-system) |
@@ -150,6 +152,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1032-stream-of-characters](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1032-stream-of-characters) |
 | [1268-search-suggestions-system](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1268-search-suggestions-system) |
 ## Stack
 |  |
@@ -333,6 +336,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1032-stream-of-characters](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1032-stream-of-characters) |
 | [2336-smallest-number-in-infinite-set](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
@@ -345,6 +349,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1032-stream-of-characters](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1032-stream-of-characters) |
 ## Tree
 |  |
 | ------- |
