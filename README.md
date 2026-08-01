@@ -40,6 +40,7 @@
 | [1268-search-suggestions-system](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1476-subrectangle-queries](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1476-subrectangle-queries) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -329,6 +330,7 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0994-rotting-oranges) |
+| [1476-subrectangle-queries](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1476-subrectangle-queries) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -362,6 +364,7 @@
 | [0901-online-stock-span](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1032-stream-of-characters](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1032-stream-of-characters) |
+| [1476-subrectangle-queries](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1476-subrectangle-queries) |
 | [2043-simple-bank-system](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2080-range-frequency-queries) |
 | [2336-smallest-number-in-infinite-set](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
