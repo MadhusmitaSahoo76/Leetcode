@@ -45,6 +45,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2043-simple-bank-system](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2043-simple-bank-system) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -109,6 +110,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2043-simple-bank-system](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2043-simple-bank-system) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -202,6 +204,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0735-asteroid-collision) |
+| [2043-simple-bank-system](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2043-simple-bank-system) |
 | [2352-equal-row-and-column-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -351,6 +354,7 @@
 | [0901-online-stock-span](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1032-stream-of-characters](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1032-stream-of-characters) |
+| [2043-simple-bank-system](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2043-simple-bank-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
