@@ -46,6 +46,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -351,4 +354,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
