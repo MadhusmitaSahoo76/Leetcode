@@ -93,6 +93,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0069-sqrtx) |
@@ -237,6 +238,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0392-is-subsequence) |
@@ -395,4 +397,8 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0216-combination-sum-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
