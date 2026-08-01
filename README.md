@@ -218,6 +218,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
@@ -366,4 +367,8 @@
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
