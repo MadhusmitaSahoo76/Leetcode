@@ -78,6 +78,7 @@
 | [0146-lru-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -95,6 +96,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0146-lru-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0460-lfu-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0460-lfu-cache) |
 | [1207-unique-number-of-occurrences](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -326,6 +328,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0460-lfu-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -453,4 +456,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
