@@ -33,6 +33,7 @@
 | [0739-daily-temperatures](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1032-stream-of-characters](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1032-stream-of-characters) |
@@ -141,6 +142,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -314,6 +316,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
+| [0877-stone-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -451,6 +454,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0877-stone-game) |
 ## Binary Search Tree
 |  |
 | ------- |
