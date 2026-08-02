@@ -105,6 +105,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0394-decode-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
 ## Hash Table
@@ -148,6 +149,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0223-rectangle-area) |
+| [0233-number-of-digit-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -328,6 +330,7 @@
 | [0072-edit-distance](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0435-non-overlapping-intervals) |
