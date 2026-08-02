@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -138,6 +139,7 @@
 | [0067-add-binary](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -529,4 +531,12 @@
 | ------- |
 | [0715-range-module](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0715-range-module) |
 | [2080-range-frequency-queries](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2080-range-frequency-queries) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
