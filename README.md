@@ -143,6 +143,7 @@
 | [0067-add-binary](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0204-count-primes) |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0338-counting-bits) |
@@ -520,6 +522,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Combinatorics
 |  |
