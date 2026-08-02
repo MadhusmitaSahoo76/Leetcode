@@ -114,6 +114,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0460-lfu-cache) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -137,6 +138,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2485-find-the-pivot-integer](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2485-find-the-pivot-integer) |
