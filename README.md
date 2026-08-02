@@ -34,6 +34,7 @@
 | [0735-asteroid-collision](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0812-largest-triangle-area](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -147,6 +148,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -548,5 +550,6 @@
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
