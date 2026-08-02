@@ -36,6 +36,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1032-stream-of-characters](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1032-stream-of-characters) |
@@ -147,6 +148,7 @@
 | [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -347,6 +349,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0994-rotting-oranges) |
 | [1476-subrectangle-queries](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1476-subrectangle-queries) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -542,4 +545,8 @@
 | ------- |
 | [0204-count-primes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
