@@ -42,6 +42,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1476-subrectangle-queries](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1476-subrectangle-queries) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -61,6 +62,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1268-search-suggestions-system](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
