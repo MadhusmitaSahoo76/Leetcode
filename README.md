@@ -138,6 +138,7 @@
 | [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [2485-find-the-pivot-integer](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
 | ------- |
@@ -343,6 +344,7 @@
 | [0724-find-pivot-index](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Sliding Window
 |  |
 | ------- |
