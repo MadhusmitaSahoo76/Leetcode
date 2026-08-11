@@ -20,6 +20,7 @@
 | [0074-search-a-2d-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0079-word-search) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0137-single-number-ii) |
@@ -125,6 +126,7 @@
 | [0001-two-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -450,6 +452,7 @@
 | [0101-symmetric-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -504,6 +507,7 @@
 | [0101-symmetric-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -548,6 +552,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
