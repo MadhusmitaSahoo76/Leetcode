@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0136-single-number) |
@@ -531,6 +532,7 @@
 | [0022-generate-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Combinatorics
@@ -574,4 +576,8 @@
 | [0223-rectangle-area](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
