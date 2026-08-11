@@ -32,6 +32,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -419,6 +420,7 @@
 | [0064-minimum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0200-number-of-islands) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0994-rotting-oranges) |
 | [1476-subrectangle-queries](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1476-subrectangle-queries) |
@@ -509,6 +511,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -529,6 +532,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0322-coin-change) |
@@ -589,6 +593,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0547-number-of-provinces) |
