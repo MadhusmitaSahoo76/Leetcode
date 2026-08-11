@@ -21,6 +21,7 @@
 | [0078-subsets](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0137-single-number-ii) |
@@ -453,6 +454,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -508,6 +510,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -528,6 +531,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -553,6 +557,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
