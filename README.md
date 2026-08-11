@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -134,6 +135,7 @@
 | [0141-linked-list-cycle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0355-design-twitter) |
@@ -287,6 +289,7 @@
 | [0027-remove-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -662,6 +665,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -795,6 +799,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
