@@ -19,6 +19,7 @@
 | [0048-rotate-image](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0066-plus-one) |
@@ -327,6 +328,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0735-asteroid-collision) |
 | [2043-simple-bank-system](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2043-simple-bank-system) |
@@ -477,6 +479,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0079-word-search) |
