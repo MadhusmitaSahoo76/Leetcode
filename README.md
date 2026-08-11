@@ -270,6 +270,7 @@
 | [0022-generate-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0076-minimum-window-substring) |
