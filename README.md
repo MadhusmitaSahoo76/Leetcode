@@ -216,6 +216,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0739-daily-temperatures) |
@@ -444,6 +445,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -460,6 +462,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -489,6 +492,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0199-binary-tree-right-side-view) |
