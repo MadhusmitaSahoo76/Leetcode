@@ -28,6 +28,7 @@
 | [0137-single-number-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0198-house-robber) |
@@ -370,6 +371,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0338-counting-bits) |
