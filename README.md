@@ -149,6 +149,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0460-lfu-cache) |
+| [0763-partition-labels](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0763-partition-labels) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -214,6 +215,7 @@
 | [0399-evaluate-division](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0649-dota2-senate) |
+| [0763-partition-labels](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0763-partition-labels) |
 | [1032-stream-of-characters](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1032-stream-of-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -257,6 +259,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0443-string-compression) |
+| [0763-partition-labels](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -420,6 +423,7 @@
 | [0605-can-place-flowers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0763-partition-labels) |
 | [2542-maximum-subsequence-score](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
