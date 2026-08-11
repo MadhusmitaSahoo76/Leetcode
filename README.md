@@ -17,6 +17,7 @@
 | [0045-jump-game-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -371,6 +372,7 @@
 | [0022-generate-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0070-climbing-stairs) |
@@ -409,6 +411,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
