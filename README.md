@@ -677,6 +677,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Brute-Force Search
 |  |
