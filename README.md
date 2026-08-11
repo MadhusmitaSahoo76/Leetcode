@@ -26,6 +26,7 @@
 | [0118-pascals-triangle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0162-find-peak-element) |
@@ -130,6 +131,7 @@
 | [0013-roman-to-integer](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -194,6 +196,7 @@
 | [0072-edit-distance](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -216,6 +219,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1032-stream-of-characters](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1032-stream-of-characters) |
 | [1268-search-suggestions-system](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1268-search-suggestions-system) |
@@ -365,6 +369,7 @@
 | [0118-pascals-triangle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0338-counting-bits) |
@@ -383,6 +388,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
@@ -670,4 +676,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
