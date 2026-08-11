@@ -1,39 +1,37 @@
 class Solution {
-    public List<String> letterCombinations(String digits){  
-        List<String> ans = new ArrayList<>();
-
-        if(digits.length()==0){
-            return ans;
-        }   
-
-        Map<Character, char[]> map = new HashMap<>();
-    
-        map.put('2',new char[]{'a','b','c'});
-        map.put('3',new char[]{'d','e','f'});
-        map.put('4',new char[]{'g','h','i'});
-        map.put('5',new char[]{'j','k','l'});
-        map.put('6',new char[]{'m','n','o'});
-        map.put('7',new char[]{'p','q','r','s'});
-        map.put('8',new char[]{'t','u','v'});
-        map.put('9',new char[]{'w','x','y','z'});
-
-        StringBuilder sb = new StringBuilder();
-        helper(digits, 0, map, sb, ans);
-
-        return ans;
-
+    public List<String> letterCombinations(String digits) {
+        List<String> res = new ArrayList<>();
+        
+        if (digits == null || digits.length() == 0) {
+            return res;
+        }
+        
+        Map<Character, String> digitToLetters = new HashMap<>();
+        digitToLetters.put('2', "abc");
+        digitToLetters.put('3', "def");
+        digitToLetters.put('4', "ghi");
+        digitToLetters.put('5', "jkl");
+        digitToLetters.put('6', "mno");
+        digitToLetters.put('7', "pqrs");
+        digitToLetters.put('8', "tuv");
+        digitToLetters.put('9', "wxyz");
+        
+        backtrack(digits, 0, new StringBuilder(), res, digitToLetters);
+        
+        return res;        
     }
-    private void helper(String digits,int i, Map<Character,char[]> map, StringBuilder sb ,List<String> ans){
 
-        if(i==digits.length()){
-            ans.add(sb.toString());
+    private void backtrack(String digits, int idx, StringBuilder comb, List<String> res, Map<Character, String> digitToLetters) {
+        if (idx == digits.length()) {
+            res.add(comb.toString());
             return;
         }
-
-        for(char c:map.get(digits.charAt(i))){
-            sb.append(c);
-            helper(digits,i+1,map,sb,ans);
-            sb.deleteCharAt(sb.length()-1);
+        
+        String letters = digitToLetters.get(digits.charAt(idx));
+        for (char letter : letters.toCharArray()) {
+            comb.append(letter);
+            backtrack(digits, idx + 1, comb, res, digitToLetters);
+            comb.deleteCharAt(comb.length() - 1);
         }
-    }
+    }    
 }
