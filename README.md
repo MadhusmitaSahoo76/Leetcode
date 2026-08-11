@@ -37,6 +37,7 @@
 | [0216-combination-sum-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -351,6 +352,7 @@
 | [0074-search-a-2d-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0374-guess-number-higher-or-lower](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -376,6 +378,7 @@
 | [0198-house-robber](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -698,4 +701,8 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0279-perfect-squares) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
