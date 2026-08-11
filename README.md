@@ -936,4 +936,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
