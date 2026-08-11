@@ -16,6 +16,7 @@
 | [0039-combination-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0078-subsets) |
@@ -358,6 +359,7 @@
 | [0022-generate-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0118-pascals-triangle) |
@@ -397,6 +399,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0079-word-search) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
