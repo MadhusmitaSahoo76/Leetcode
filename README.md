@@ -43,6 +43,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0399-evaluate-division](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0399-evaluate-division) |
+| [0416-partition-equal-subset-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
@@ -383,6 +384,7 @@
 | [0322-coin-change](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -701,6 +703,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -710,4 +713,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
