@@ -26,6 +26,7 @@
 | [0053-maximum-subarray](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -103,6 +104,7 @@
 | ------- |
 | [0015-3sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -871,4 +873,8 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
