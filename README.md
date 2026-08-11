@@ -15,6 +15,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0048-rotate-image) |
@@ -292,6 +293,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -312,6 +314,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0148-sort-list) |
@@ -442,6 +445,7 @@
 | [0005-longest-palindromic-substring](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0062-unique-paths) |
@@ -744,6 +748,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0901-online-stock-span) |
