@@ -58,6 +58,7 @@
 | [0239-sliding-window-maximum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -338,6 +339,7 @@
 | [0189-rotate-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0392-is-subsequence) |
@@ -358,6 +360,7 @@
 | [0136-single-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -448,6 +451,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0374-guess-number-higher-or-lower](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -875,6 +879,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -897,4 +902,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
