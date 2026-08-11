@@ -26,6 +26,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0139-word-break) |
@@ -378,6 +379,7 @@
 | [0070-climbing-stairs](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0139-word-break) |
