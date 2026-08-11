@@ -15,6 +15,7 @@
 | [0051-n-queens](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0137-single-number-ii) |
@@ -179,6 +180,7 @@
 | [0022-generate-parentheses](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -370,6 +372,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0079-word-search) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0994-rotting-oranges) |
 | [1476-subrectangle-queries](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1476-subrectangle-queries) |
@@ -441,6 +444,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -536,6 +540,7 @@
 | [0046-permutations](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Combinatorics
