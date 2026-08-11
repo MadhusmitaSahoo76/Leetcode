@@ -190,6 +190,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0763-partition-labels) |
@@ -261,6 +262,7 @@
 | [0392-is-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0399-evaluate-division) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0763-partition-labels) |
@@ -517,6 +519,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
