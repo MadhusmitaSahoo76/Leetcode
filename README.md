@@ -28,6 +28,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0139-word-break) |
@@ -142,6 +143,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -612,6 +614,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0399-evaluate-division) |
