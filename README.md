@@ -86,6 +86,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0399-evaluate-division](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0427-construct-quad-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
@@ -628,6 +629,7 @@
 | [0221-maximal-square](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0909-snakes-and-ladders](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0994-rotting-oranges) |
@@ -723,6 +725,7 @@
 | [0226-invert-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -891,6 +894,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0427-construct-quad-tree) |
 ## Quickselect
 |  |
 | ------- |
