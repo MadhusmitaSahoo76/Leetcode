@@ -314,6 +314,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1510-stone-game-iv](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1510-stone-game-iv) |
 | [2485-find-the-pivot-integer](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## String
@@ -608,6 +609,7 @@
 | [1143-longest-common-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
 | ------- |
@@ -866,6 +868,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1510-stone-game-iv) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1146,4 +1149,20 @@
 | ------- |
 | [0127-word-ladder](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
