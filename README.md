@@ -219,6 +219,7 @@
 | [0169-majority-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0355-design-twitter) |
@@ -305,6 +306,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0392-is-subsequence) |
