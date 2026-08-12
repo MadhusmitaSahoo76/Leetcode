@@ -218,6 +218,7 @@
 | [0149-max-points-on-a-line](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0242-valid-anagram) |
@@ -262,6 +263,7 @@
 | [0149-max-points-on-a-line](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -377,6 +379,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -937,6 +940,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Monotonic Queue
 |  |
