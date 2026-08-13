@@ -86,6 +86,7 @@
 | [0287-find-the-duplicate-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -694,6 +695,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -725,6 +727,7 @@
 | [0225-implement-stack-using-queues](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
