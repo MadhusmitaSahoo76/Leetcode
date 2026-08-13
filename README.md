@@ -317,6 +317,7 @@
 | [0263-ugly-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -914,6 +915,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1510-stone-game-iv) |
@@ -1205,10 +1207,12 @@
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -1218,4 +1222,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1510-stone-game-iv) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
