@@ -310,6 +310,7 @@
 | [0224-basic-calculator](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -485,6 +486,7 @@
 | [0054-spiral-matrix](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0735-asteroid-collision) |
 | [2043-simple-bank-system](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2043-simple-bank-system) |
@@ -1028,6 +1030,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0258-add-digits) |
 | [2523-closest-prime-numbers-in-range](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Geometry
 |  |
