@@ -227,6 +227,7 @@
 | [0233-number-of-digit-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0486-predict-the-winner) |
 ## Hash Table
@@ -321,6 +322,7 @@
 | [0279-perfect-squares](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -487,6 +489,7 @@
 | [0268-missing-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Simulation
