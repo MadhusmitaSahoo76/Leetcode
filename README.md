@@ -220,6 +220,7 @@
 | [0060-permutation-sequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0394-decode-string) |
@@ -307,6 +308,7 @@
 | [0204-count-primes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0279-perfect-squares) |
@@ -470,6 +472,7 @@
 | [0191-number-of-1-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0371-sum-of-two-integers) |
