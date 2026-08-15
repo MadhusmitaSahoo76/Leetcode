@@ -277,6 +277,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -385,6 +386,7 @@
 | [0344-reverse-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0399-evaluate-division) |
@@ -579,6 +581,7 @@
 | [0274-h-index](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -766,6 +769,7 @@
 | [0225-implement-stack-using-queues](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
