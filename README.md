@@ -504,6 +504,7 @@
 | [0338-counting-bits](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0401-binary-watch) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Simulation
 |  |
@@ -1030,6 +1031,7 @@
 | [0212-word-search-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0401-binary-watch) |
 ## Combinatorics
 |  |
 | ------- |
