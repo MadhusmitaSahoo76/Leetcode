@@ -330,6 +330,7 @@
 | [0292-nim-game](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -607,6 +608,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0367-valid-perfect-square](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/MadhusmitaSahoo76/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
